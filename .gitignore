@@ -4,7 +4,7 @@
 /_output
 
 # docker build
-/deploy/docker/csi-cvmfsplugin
+#/deploy/docker/csi-cvmfsplugin
 
 # Emacs save files
 *~
